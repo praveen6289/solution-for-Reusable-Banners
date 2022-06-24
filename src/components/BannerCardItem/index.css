@@ -20,7 +20,6 @@
 
 /* Write your code here. */
 .card {
-  flex-direction: column;
   border: 2px solid #cbced2;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -40,6 +39,8 @@
   font-family: 'Roboto';
   color: #64748b;
   font-size: 17px;
+  margin-top: 24px;
+  margin-bottom: 32px;
 }
 .button {
   background-color: #ffffff;
